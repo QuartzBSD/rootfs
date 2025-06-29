@@ -1,0 +1,9 @@
+NAME="QuartzOS"
+PRETTY_NAME="QuartzOS"
+ID=quartzos
+ID_LIKE=freebsd
+VERSION="2025.6.29a"
+VERSION_ID="20250629a"
+ANSI_COLOR="38;2;23;147;209"
+LOGO=freebsd-logo
+RELEASE_TYPE=development
